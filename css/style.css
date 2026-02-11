@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+
+}
+body{
+    padding: 20px;
+}
+a{
+    color: black;
+}
+.McUncleMotvy{
+    font-size: 50px;
+    font-weight: 100;
+    margin-top: 10px;
+    
+}
+.motvi{
+    width: 116px;
+    height: 116px;
+    border-radius: 20px;
+    margin: 0;
+}
+li{
+    font-size: 25px;
+    color: black;
+    margin-top: 20px;
+    margin-right: 200px;
+    list-style-type: none;
+    width: 90px;
+
+}
+
+.dir{
+    display: flex;
+    border: 3px solid blue;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+ul{
+    display: flex;
+}
+
+.cookies{
+    display: block;
+    border: 3px solid royalblue;
+    width: 600px;
+    height: 750px;
+    padding: 50px;
+    border-radius: 15px;
+    
+}
+.opisanie{
+    width: 400px;
+    margin-left: 75px;
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+h2{
+    height: 30px;
+    font-size: 30px; font-weight: 500;
+    margin-bottom: 50px;
+
+}
+p{
+    margin-left: 120px;
+    font-size: 20px;
+    width: 300px;
+    color:black;
+    margin-bottom: 5px;
+
+}
+section{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    
+}
+button{
+    color: white;
+    background-color: blue;
+    width: 150px;
+    height: 50px;
+    border-radius: 100px;
+    border: 1px solid black;
+    margin-left: 170px;
+
+}
