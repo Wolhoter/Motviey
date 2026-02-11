@@ -81,7 +81,7 @@ p{
 section{
     display: flex;
     flex-wrap: wrap;
-    gap: 40px;
+    gap: 25px;
     
 }
 button{
@@ -92,5 +92,6 @@ button{
     border-radius: 100px;
     border: 1px solid black;
     margin-left: 170px;
+
 
 }
